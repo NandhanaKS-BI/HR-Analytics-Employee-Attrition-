@@ -79,7 +79,7 @@ The objective of this project is to:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](HR%20Analytics-Employee%20Attrition.jpg)
+![Dashboard Preview](HR%20Analytics%20–%20Employee%20Attrition.jpg)
 
 ---
 
